@@ -5,6 +5,15 @@
       "adminUsername": {
         "value": "bartosz"
     },
+    "keyVaultName": {
+      "value": "azu-lab-kv-01"
+  },
+  "objectId": {
+      "value": "<objectid>"
+  },
+  "tenantId": {
+      "value": "<tenantid>"
+  },
     "adminPassword": {
       "reference": {
         "keyVault": {
