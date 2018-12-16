@@ -1,0 +1,14 @@
+{
+  "bindings": [
+    {
+      "type": "cosmosDBTrigger",
+      "name": "input",
+      "connectionStringSetting": "ItemsTrigger_ConnectionString",
+      "databaseName": "tydz82db",
+      "collectionName": "Items",
+      "leaseCollectionName": "leases",
+      "createLeaseCollectionIfNotExists": false,
+      "direction": "in"
+    }
+  ]
+}
