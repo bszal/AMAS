@@ -1,0 +1,17 @@
+{
+  "bindings": [
+    {
+      "name": "myTimer",
+      "type": "timerTrigger",
+      "direction": "in",
+      "schedule": "0 */1 * * * *"
+    },
+    {
+      "type": "queue",
+      "name": "$return",
+      "queueName": "tyd631",
+      "connection": "tydz63lab01b755_STORAGE",
+      "direction": "out"
+    }
+  ]
+}
