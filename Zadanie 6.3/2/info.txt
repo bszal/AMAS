@@ -1,0 +1,1 @@
+Stwórz drugą funkcję, która czeka na wiadomości w Storage Queue i zapisuje jej do bazy – może to być darmowa wersja Azure SQL Database.
