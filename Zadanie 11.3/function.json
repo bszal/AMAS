@@ -1,0 +1,12 @@
+{
+  "bindings": [
+    {
+      "type": "blobTrigger",
+      "name": "myBlob",
+      "path": "input/{filename}.mp4",
+      "connection": "StorageConnection",
+      "direction": "in"
+    }
+  ],
+  "disabled": false
+}
