@@ -1,1 +1,2 @@
 
+1)	Spraw by twoja maszyna po utworzeniu miała zainstalowanego IIS z uruchomioną bazową stroną HTML, która zostanie pobrana z dowolnego miejsca z publicznym endpointem.
